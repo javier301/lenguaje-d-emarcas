@@ -1,0 +1,48 @@
+h1
+{
+	text-align: center;
+	color: purple;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+th
+{
+	color: blue;
+	text-decoration: underline;
+	border: 0;
+}
+
+td
+{
+	color: purple;
+	border-style: solid;
+	border-color: blue;
+	border-width: 1px;
+	padding: 10px;
+}
+
+table
+{
+	background-color: pink;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	height: 260px;
+	border-style: solid;
+	border-color: blue;
+	border-width: 3px;
+	border-spacing: 20px;
+}	
+
+.lenguaje
+{
+	color: red;
+	text-align: center;
+	background-color: grey;
+	border-style: solid;
+	border-color: blue;
+	border-width: 1px;
+}
+
+	

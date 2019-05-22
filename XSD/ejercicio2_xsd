@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="vehiculos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="vehiculo" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+           <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nombre" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xs:element name="modelo" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xs:element name="fabricacion" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:complexType>
+                 <xs:sequence>vela
+                 
+                    <xs:element name="inicio" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    <xs:element name="fin" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xs:element name="modificaciones" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

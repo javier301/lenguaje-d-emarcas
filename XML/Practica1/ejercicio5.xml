@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE arbol SYSTEM "ejercicio5.dtd">
+
+<arbol>
+	<especie>
+		<nombre>Litchi</nombre>
+		<variedad>Kway May Pink</variedad>
+		<origen>Filipinas</origen>
+		<color_fruto>rosa</color_fruto>
+		<maduracion>agosto</maduracion>
+		<riego>diario</riego>
+		<precio>3.5</precio>
+	</especie>
+
+	<especie>
+		<nombre>longan</nombre>
+		<variedad>champoo</variedad>
+		<origen>china</origen>
+		<color_fruto>marron</color_fruto>
+		<maduracion>octubre</maduracion>
+		<riego>diario</riego>
+		<precio>2.5</precio>
+	</especie>
+
+	<especie>
+		<nombre>Litchi</nombre>
+		<variedad>mauritius</variedad>
+		<origen>Florida</origen>
+		<color_fruto>rojo</color_fruto>
+		<maduracion>agosto</maduracion>
+		<riego>diario</riego>
+		<precio>3</precio>
+	</especie>
+</arbol>

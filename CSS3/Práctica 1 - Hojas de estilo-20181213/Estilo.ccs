@@ -1,0 +1,29 @@
+body
+{
+	background-color: yellow;
+	fontsize: 10pt;
+	font-family: arial;
+	margin-left: 0.5in;
+	margin-right: 0.5in;
+}
+
+h1
+{
+	background-color: blue;
+	font-size: 14pt;	
+	font-weight: bold;
+	color: red;
+}
+
+h2
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color: red;
+}
+
+div
+{
+	background-image: url(fondos/marbre.jpg);
+	font-weight: bold;
+}

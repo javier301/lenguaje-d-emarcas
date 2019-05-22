@@ -1,0 +1,78 @@
+<html>
+	<head>
+		<title>solicitud de inofrmacion</title>
+	</head>
+	
+	<body background=fons.jpg>
+	<form action="mailto:tuemal@tuhost.ext" method="post">
+		<h1 align=center>Solicitud de Inofrmacion</h1><h>
+		<br><h4 align=left>datos personales</h4><br>
+		nombre:<input size="15" name=nombre><br>
+		apellidos:<input size=30 name=apellidos><br>
+		direccion:<input size=20 name=direccion><br>
+		codigo postal:<input size=20 name="codigo postal"><br>
+		ciudad:
+		<select name=ciudad>
+			<option>madrid</option>
+			<option>barcelona</option>
+			<option>santander</option>
+			<option>navarra</option>
+			<option>ramdom...</option>
+		</select><br>	
+		direcion de email:<input size=30 name=e_mail><br>
+		telefono:<input size=10 name=telefono><br><br>
+		<fieldset>
+			<legend>deportes que practicas</legend>
+		<table>
+			<tr><td><input type=checkbox value=si name=futbol>futbol<td><input type=checkbox value=si name="futbol sala">futbol sala<td><input type=checkbox value=si name=fronton>fronton<td><input type=checkbox value=si name=padle>padle
+			<tr><td><input type=checkbox value=si name=basket>basket<td><input type=checkbox value=si name=tenis>tenis<td><input type=checkbox value=si name=squash>squash<td><input type=checkbox value=si name=natacion>natacion
+			<tr><td><input type=checkbox value=si name=joguing>joguing<td><input type=checkbox value=si name=equitacion>equitacion<td><input type=checkbox value=si name=balonmano>balonmano<td><input type=checkbox value=si name=voleibol>voleibol
+		</table>
+		</fieldset>
+		<br>otros:<input size=35 name=otros><br><br>
+		<fieldset>
+		<table>
+			<legend><b>¿que aventura desea?</b></legend>
+			<tr><td><input type=checkbox value=si name=rafting>rafting<td><input type=checkbox value=si name=barrancos>barrancos<td><input type=checkbox value=si name=hidrospeed>hidrospeed<td><input type=checkbox value=si name=canoa>canoa
+			<tr><td><input type=checkbox value=si name="excursion a acaballo">excursion a acaballo<td><input type=checkbox value=si name=montañismo>montañismo<td><input type=checkbox value=si name=escalada>escalada
+		</table>
+		</fieldset>
+		<br>si no ha encontado la aventura que desea en la lista anterior, indique sus preferencias o gustos en la siguiente casilla:<br><br>
+		<input size=40 name="otro deporte"><br><br>
+		
+		
+		<h3>ordenador personal</h3>
+	<table>
+	<td><fieldset>
+	<legend><p><b>tipo de procesador: </b></p></legend>
+	<dl><dd>
+	<input type=radio value=p name=procesador> pentium o anterior<br>
+	<input type=radio value=pii name=procesador> pentium II<br>
+	<input type=radio value=piii name=procesador> pentium III<br>
+	<input type=radio value=piv name=procesador> pentium IV o posterior<br>
+	</dd></dl>
+	</fieldset>
+	
+	<td><fieldset>
+	<legend><p><b> elementos multimedia del ordenador: </b></p></legend>
+	<dd><dl>
+	<input type=checkbox value=si name=ts>tarjeta de sonido<br>
+	<input type=checkbox value=si name=cd> cd rom<br>
+	<input type=checkbox value=si name=vc> camara de video-conferencia<br>
+	</dd></dl>
+	</fieldset>
+	</table>
+	
+	<fieldset>
+	<legend><h3>¿como recibir la informacion</h3></legend>
+	<input type=radio name=informacion value=tel> por telefono<br>
+	<input type=radio name=informacion value=correo> por correo<br>
+	<input type=radio name=informacion value=email> por e-mail<br>
+	</fieldset>
+	
+	<p>cuando finalize pulse el boton <b>enviar</b></p>
+	<input type=submit value=enviar name=botenviar>
+	
+	</body>
+</html>
+		

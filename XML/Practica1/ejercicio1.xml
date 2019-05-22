@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aeropuerto[
+<!ELEMENT aeropuerto (nombre,vuelos,fecha)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT vuelos (vuelo)+>
+  <!ELEMENT vuelo (diario?,origen,destino,hora_s,hora_l)>
+    <!ATTLIST vuelo codigo ID #REQUIRED>
+    <!ATTLIST vuelo estado (C|E|R)  "E">
+  <!ELEMENT diario EMPTY>
+  <!ELEMENT origen (#PCDATA)>
+  <!ELEMENT destino (#PCDATA)>
+  <!ELEMENT hora_s (#PCDATA)>
+  <!ELEMENT hora_l (#PCDATA)>
+  <!ELEMENT estado (#PCDATA) >
+  <!ELEMENT fecha (#PCDATA)>
+]>
+
+<aeropuerto>
+  <nombre>Adolfo Suarez Barajas</nombre>
+  <vuelos>
+  <vuelo codigo="v22" estado="R">
+    <diario></diario>
+    <origen>madrid</origen>
+    <destino>chicago</destino>
+    <hora_s>9:30</hora_s>
+    <hora_l>11:30</hora_l>
+  </vuelo>
+  <vuelo codigo="v23" estado="R">
+    <diario></diario>
+    <origen>madrid</origen>
+    <destino>miami</destino>
+    <hora_s>10:15</hora_s>
+    <hora_l>11:15</hora_l>
+  </vuelo>
+  </vuelos>
+  <fecha>05/02/2018</fecha>
+  </aeropuerto>

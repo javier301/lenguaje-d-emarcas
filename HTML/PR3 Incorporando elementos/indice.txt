@@ -1,0 +1,11 @@
+<html>
+	<head>
+ 		<title>ejemplo1</title>
+ 	</head>
+ 	<body link="#708090" vlink="#708090" alink="#708090">
+ 	<H1>Home Page del curso HTML</H1>
+	<H3>Documentos del curso: </H3>
+ 		- <A HREF=”PR2_internet.html”>Internet</A><BR>
+	       - <A HREF=”http://www.google.com”>Internet</A><BR>
+	</body>
+</html>

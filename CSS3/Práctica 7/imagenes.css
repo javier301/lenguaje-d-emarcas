@@ -1,0 +1,78 @@
+body
+{
+	background-color: green;	
+}
+
+
+
+h1
+{
+	text-transform: uppercase;
+	text-align: center;
+	color: green;
+}
+
+.cabecera
+{
+	background-image: url(imagen1.jpg);
+	position: relative;
+	background-size: cover;
+	height: 160px;
+	background-attachment: fixed;
+	opacity: 1;
+}
+
+.imagen1
+{
+	background-image: url(imagen2.jpeg);
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 350px 400px;
+	border: none;
+}
+
+.imagen2
+{
+	background-image:url(imagen4.jpeg);
+	background-size: 350px 400px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: -15px;
+	top: -370px;
+	left: 450px;
+	border: none;
+}
+
+.imagen3
+{
+	background-image:url(imagen6.jpg);
+	background-size: 350px 400px;
+	background-repeat: no-repeat;
+	position: relative;
+	top: -740px;
+	left: 930px;
+	border: none;
+}
+
+
+
+fieldset
+{
+	width: 300px;
+	height: 350px;
+}
+
+a
+{
+	color: green;
+}
+
+
+
+
+
+
+
+
+
+

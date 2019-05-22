@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; carset=iso-8859-1">
+	</head>
+	
+	<body background="fons.jpg">
+	
+	<h1 align=center>solicitud de informacion</h1>
+	<form action="mailto:tuemal@tuhost.ext" method="post">
+	<h3>datos personales</h3>
+	nombre: <input size="15" name=nombre"><br>
+	apellidos: <input size=25 name=apellidos><br>
+	direccion de email: <input type="email" size=25 name=e-mail><br>
+	telefono: <input type=tel size=10 name=telefono><br>
+	ciudad: 
+	<select name=ciudad>
+		<option>barcelona</option>
+		<option>badajoz</option>
+		<option>madrid</option>
+	</select><br>
+	
+	<h3>ordenador personal</h3>
+	<p><b>tipo de procesador: </b></p>
+	<dl><dd>
+	<input type=radio value=p name=procesador> pentium o anterior<br>
+	<input type=radio value=pii name=procesador> pentium II<br>
+	<input type=radio value=piii name=procesador> pentium III<br>
+	<input type=radio value=piv name=procesador> pentium IV o posterior<br>
+	</dd></dl>
+	
+	<p><b> elementos multimedia del ordenador: </b></p>
+	<dd><dl>
+	<input type=checkbox value=si name=ts>tarjeta de sonido<br>
+	<input type=checkbox value=si name=cd> cd rom<br>
+	<input type=checkbox value=si name=vc> camara de video-conferencia<br>
+	</dd></dl>
+	
+	<h3>¿como recibir la informacion</h3>
+	<input type=radio name=informacion value=tel> por telefono<br>
+	<input type=radio name=informacion value=correo> por correo<br>
+	<input type=radio name=informacion value=email> por e-mail<br>
+	
+	<p>cuando finalize pulse el boton <b>enviar</b></p>
+	<input type=submit value=enviar name=botenviar>
+	
+	</form>
+	</body>	
+</html>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Moviles[
+<!ELEMENT Moviles (móvil+)>
+<!ELEMENT móvil (modelo, precio, fabricante, color)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT fabricante (#PCDATA)>
+<!ELEMENT color  (#PCDATA)>
+]>
+
+<Moviles>
+<móvil>
+<modelo>asd</modelo>
+<precio>qwegf</precio>
+<fabricante>sdfghj</fabricante>
+<color>asdfg</color>
+</móvil>
+</Moviles>

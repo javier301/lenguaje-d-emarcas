@@ -1,0 +1,26 @@
+
+H2.rojo 
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color: red;
+}
+
+H2.verde
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color: green;
+}
+
+H2.azul 
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color: blue;
+}
+
+#amarillo
+{
+	color: yellow;
+}

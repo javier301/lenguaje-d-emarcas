@@ -1,0 +1,177 @@
+<HTML>
+<HEAD>
+   <TITLE>El sistema solar</TITLE>
+</HEAD>
+<BODY>
+
+<H1 ALIGN=CENTER>El Sistema Solar</H1>
+
+<P>Seg&uacute;n nuestros conocimientos, existen nueve planetas que circulan
+en &oacute;rbitas alrededor del Sol. S&oacute;lo uno, nuestra Tierra, tiene
+vida; pero hay innumerables soles en innumerables galaxias repartidas a
+trav&eacute;s del universo. Todav&iacute;a no sabemos si hay vida en otros
+planetas de otras galaxias.</P>
+
+<P>Sin embargo, cada vez aprendemos m&aacute;s sobre nuestro sistema solar.
+Durante los &uacute;ltimos 15 a&ntilde;os, investigaciones espaciales tales
+como la misi&oacute;n del Mariner o del Voyager nos han proporcionado detalles
+inmensos sobre los planetas de nuestro sistema. El sistema solar, a pesar
+de ser peque&ntilde;o en comparaci&oacute;n con la V&iacute;a L&aacute;ctea,
+es inmenso cuando se considera a escala humana.</P>
+
+<br id=indice>;: indice :;<br>
+<a href=#tierra>tierra</a><br>
+<a href=#venus>venus</a><br>
+<a href=#mercurio>mercurio</a><br>
+<a href=#marte>marte</a><br>
+<a href="#cinturon de asteroides">cinturon de asteroides</a><br>
+<a href=#jupiter>jupiter</a><br>
+<a href=#saturno>saturno</a><br>
+<a href=#urano>urano</a><br>
+<a href=#neptuno>neptuno</a><br>
+<a href=#pluton>pluton</a><br>
+<hr width="100%">
+
+<HR>
+<H2 id="tierra">Tierra</H2>
+
+
+<P>Con su singular combinaci&oacute;n de temperatura y atm&oacute;sfera,
+as&iacute; como la presencia de agua, la Tierra es el &uacute;nico planeta
+del sistema solar que tiene vida.</P>
+
+<P>Durante casi 500 millones de a&ntilde;os despu&eacute;s de su formaci&oacute;n
+inicial, la Tierra se mantuvo con una temperatura bastante estable de 874,68
+grados cent&iacute;grados. Compuesta predominantemente de hierro y s&iacute;lice,
+la Tierra conten&iacute;a tambi&eacute;n peque&ntilde;as cantidades de
+elementos radioactivos, principalmente uranio, torio y potasio. A medida
+que estos elementos se consum&iacute;an iban produciendo radiaciones que
+fueron calentando la Tierra, fundiendo el hierro y el s&iacute;lice. El
+hierro se hundi&oacute; hasta el centro, forzando a los silicatos m&aacute;s
+ligeros a remontar a la superficie causando los violentos procesos que
+formaron la superficie de la Tierra tal como la conocemos y que contin&uacute;a
+form&aacute;ndose incluso hoy.</P>
+
+<P><IMG src=”PR3_tierra.jpg” alt="la tierra en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="venus">Venus</H2>
+
+<P>Oculto tras el manto de misterio, Venus, el planeta m&aacute;s cercano
+a nosotros toma su nombre de la diosa romana del amor. Por una raz&oacute;n
+desconocida, la rotaci&oacute;n de Venus alrededor de su eje es retr&oacute;grada,
+es decir, en direcci&oacute;n contraria a su rotaci&oacute;n alrededor
+del Sol.</P>
+
+<P><IMG src="PR3_venus.jpg" alt="venus en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="mercurio">Mercurio</H2>
+
+<P>Llamado as&iacute; en honor del mensajero de pies alados de los dioses
+romanos, Mercurio recorre su &oacute;rbita a una velocidad de 48 Km por
+segundo, por lo que el a&ntilde;o de Mercurio s&oacute;lo dura 88 d&iacute;as
+terrestres. Por el contrario, tarda casi 59 d&iacute;as en rotar alrededor
+de su eje.</P>
+
+<P><IMG src=PR3_mercurio.jpg alt="mercurio en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="marte">Marte</H2>
+
+<P>Como es tan visible y su atm&oacute;sfera es muy fina y transparente,
+sabemos m&aacute;s acerca de Marte que de cualquier otro planeta excluyendo
+la Tierra. El d&iacute;a de Marte es de aproximadamente la misma duraci&oacute;n
+que el de la Tierra, ya que Marte tarda 24 horas y 37 minutos en girar
+alrededor de su eje, pero el a&ntilde;o es de 687 d&iacute;as terrestres.
+Su distancia del Sol puede variar en unos 57 millones y medio de kil&oacute;metros
+debido a su &oacute;rbita exc&eacute;ntrica.</P>
+
+<P><IMG src=”PR3_marte.jpg” alt="marte en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="cinturon de asteroides">El cintur&oacute;n de asteroides</H2>
+
+<P>Bas&aacute;ndonos en las distancias entre los 9 planetas conocidos,
+deber&iacute;a haber un d&eacute;cimo planeta entre Marte y J&uacute;piter.
+De hecho, donde deber&iacute;a estar ese planeta, existe una banda de asteroides,
+unos muy grandes, de hasta 1000 Km de di&aacute;metro y otros son simplemente
+peque&ntilde;os guijarros.</P>
+
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="jupiter">J&uacute;piter</H2>
+
+<P>J&uacute;piter es el mayor de los planetas del sistema solar y se llama
+as&iacute; en honor al rey de los dioses romanos. No se considera un planeta
+terrestre porque su &quot;superficie&quot; es una masa turbulenta de hidr&oacute;geno
+l&iacute;quido con un n&uacute;cleo de hierro de un tama&ntilde;o aproximado
+al de la Tierra.</P>
+
+<P><IMG src="PR3_jupiter.jpg" alt="jupiter en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="saturno">Saturno</H2>
+
+<P>Saturno es el segundo planeta m&aacute;s grande del sistema solar y
+probablemente el m&aacute;s ligero ya que es el menos denso. De hecho,
+debido a que la relaci&oacute;n tama&ntilde;o-peso es tan grande, Saturno
+podr&iacute;a flotar en el agua, si pudiera encontrarse un recipiente lo
+suficientemente grande. Al igual que J&uacute;piter, Saturno es una bola
+de gas y l&iacute;quido, con n&uacute;cleo que posiblemente sea del mismo
+tama&ntilde;o que la Tierra.</P>
+
+<P><IMG src="PR3_saturno.jpg" alt="saturno en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="urano">Urano</H2>
+
+<P>El planeta m&aacute;s sorprendente es Urano, el s&eacute;ptimo planeta
+a partir del Sol. Urano tiene un &aacute;ngulo de aproximadamente 90&ordm;
+con el Sol, por lo que constantemente uno de sus polos se dirige casi directamente
+hacia el Sol. Sorprendentemente, la temperatura en ambos polos es aproximadamente
+la misma.</P>
+
+<P><IMG src="PR3_urano.jpg" alt="urano en el espacio">
+
+<br><a href=#indice>volver al indice</a>
+
+<HR><H2 id="neptuno">Neptuno</H2>
+
+<P>El gigante planeta azul inspir&oacute; a las gentes de la antig&uuml;edad
+a darle el nombre seg&uacute;n el dios del profundo mar azul. Lo que sabemos
+acerca de Neptuno es m&aacute;s limitado que lo que sabemos acerca de cualquiera
+de los otros ocho planetas, aunque el Voyager 2 nos dio nueva informaci&oacute;n.</P>
+
+<P><IMG src="PR3_neptuno.jpg" alt="neptuno en el espacio">
+
+<hr><a href=#indice>volver al indice</a>
+
+<HR><H2 id="pluton">Plut&oacute;n</H2>
+
+<P>Plut&oacute;n, el noveno y, seg&uacute;n nuestros conocimientos, &uacute;ltimo
+planeta de nuestro sistema solar, fue pronosticado por Percival Lowell,
+quien reconoci&oacute; que hab&iacute;a irregularidades inexplicables en
+las &oacute;rbitas de Urano y Neptuno. En 1930, Clyde Tombaugh descubri&oacute;
+Plut&oacute;n exactamente donde Lowell hab&iacute;a pronosticado que se
+encontrar&iacute;a. El nombre Plut&oacute;n se le dio para mantener la
+tradici&oacute;n de los dioses romanos y es apropiado (Plut&oacute;n era
+el dios del otro mundo y el planeta es oscuro y helado) pero se escogi&oacute;
+porque las primeras dos primeras letras eran las iniciales de Percival
+Lowell.</P>
+
+<P><IMG src="PR3_pluton.jpg" alt="pluton en el espacio">
+
+<hr><a href=#indice>volver al indice</a>
+
+<P><HR><I><FONT SIZE=-2>del curso</FONT></I></P>
+
+</BODY>
+</HTML>

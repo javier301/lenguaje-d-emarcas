@@ -1,0 +1,9 @@
+<HTML>
+   <HEAD>
+      <META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; charset=iso-8859-1”>
+      <TITLE> Texto de html </TITLE>
+   </HEAD>
+	<BODY BGCOLOR="YELLOW">
+		Este es mi primer texto
+	</BODY>
+</HTML>

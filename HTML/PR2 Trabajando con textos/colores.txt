@@ -1,0 +1,25 @@
+<html>
+	<head>
+		 <META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; charset=iso-8859-1”>
+	</head>
+	
+	<body>
+	<p align=center>EL SISTEMA DE COLORES R	G B</p><br>
+	
+	<p>Estos son los códigos que identifican los colores utilizados el sistema de colores RGB</p>
+	
+	<pre>
+	Colores      rojo verde azul
+	             R    G     B
+	           
+	negro        00   00    00
+	blanco       FF   FF    FF
+	rojo         FF   00    00
+	verde        00   FF    00
+	azul         00   00    FF
+	gris         C0   C0    C0
+	gris oscuro  80   80    80
+	</pre>
+	<p>Estos códigos equivalen a la cantidad de cada uno de los tres colores "basicos" (rojo, verde y azul) que es necesario para conseguir el color que se quiere representar.<p>
+	</body>
+</html>

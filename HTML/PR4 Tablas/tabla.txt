@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>primera tabla</title>
+	</head>
+	<body bgcolor=#FFFFFF>
+		<table>
+			<caption>titulo de la tabla</caption>
+			<tr><th>columna1</th><th>columna2</th><th>columna3</th></tr>
+			<tr><th>fila1<td>fila1<td>fila1
+			<tr><th>fila2<td>fila2<td>fila2
+		</table>
+	</body>
+</html>		

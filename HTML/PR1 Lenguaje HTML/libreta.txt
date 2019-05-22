@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; 			charset=utf-8>
+	<TITLE>      lista de la compra </TITLE>
+	</head>
+	<body background="cuaderno-anillos-blanco-sobre-fondo-blanco_42088-2346.jpg" BGPROPERTIES=”fixed”>
+		<pre>
+lista de la compra de mañana
+
+         -media docena de huevos
+         -3 Kg de patatas.
+         -256 Megas de memoria RAM
+         -3 litros de leche
+         -1 escaner de color
+         -1 Kg de manzanas
+         -1 paquete de sal 
+         -recoger el periodico en el quiosco 
+		</pre>
+	</body>
+</html>

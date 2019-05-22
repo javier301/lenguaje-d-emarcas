@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos[
+<!DOCTYPE articulos (articulo+)>
+<!ELEMENT articulo (nombre, precios, codigo, frabricante)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT precios (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT fabricante (#PCDATA)>
+]>
